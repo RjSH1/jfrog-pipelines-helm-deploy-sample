@@ -1,6 +1,6 @@
 # This pipeline uses the "local templates" feature
 # https://www.jfrog.com/confluence/display/JFROG/Local+Templates
-template: true
+#template: true
 valuesFilePath: ./values.yml
 
 resources:
